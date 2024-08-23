@@ -1,0 +1,9 @@
+SHOW COLUMNS FROM `tbl_insights_cron_function_status` FROM `Inbestments`|||ERROR :Table 'inbestments.tbl_insights_cron_function_status' doesn't exist
+SHOW COLUMNS FROM `tbl_insights_cron_function_status` FROM `Inbestments`|||ERROR :Table 'inbestments.tbl_insights_cron_function_status' doesn't exist
+SHOW COLUMNS FROM `tbl_insights_cron_function_status` FROM `Inbestments`|||ERROR :Table 'inbestments.tbl_insights_cron_function_status' doesn't exist
+SHOW COLUMNS FROM `tbl_insights_cron_function_status` FROM `Inbestments`|||ERROR :Table 'inbestments.tbl_insights_cron_function_status' doesn't exist
+SHOW COLUMNS FROM `tbl_insights_cron_function_status` FROM `Inbestments`|||ERROR :Table 'inbestments.tbl_insights_cron_function_status' doesn't exist
+SHOW COLUMNS FROM `tbl_insights_cron_function_status` FROM `Inbestments`|||ERROR :Table 'inbestments.tbl_insights_cron_function_status' doesn't exist
+SHOW COLUMNS FROM `tbl_insights_cron_function_status` FROM `Inbestments`|||ERROR :Table 'inbestments.tbl_insights_cron_function_status' doesn't exist
+SHOW COLUMNS FROM TABLE `insights_cron_function_status` FROM `Inbestments`|||ERROR :Table 'inbestments.tbl_insights_cron_function_status' doesn't exist
+SHOW COLUMNS FROM `insights_cron_function_status` FROM `Inbestments`|||ERROR :Table 'inbestments.tbl_insights_cron_function_status' doesn't exist
